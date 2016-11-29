@@ -1,5 +1,5 @@
 {
-  "name": "chrisboulton/php-resque-statsd",
+  "name": "invoiced/php-resque-statsd",
   "description": "Submit metrics for your php-resque jobs into StatsD/Graphite",
   "keywords": ["job", "background", "redis", "resque", "statsd", "graphite"],
   "homepage": "https://github.com/chrisboulton/php-resque-statsd",
